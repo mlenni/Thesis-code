@@ -1,0 +1,37 @@
+{
+    "tables": {
+        "table": {
+            "columns": {
+                "timestamp": {
+                    "sdtype": "datetime"
+                },
+                "pm2.5": {
+                    "sdtype": "numerical"
+                },
+                "DEWP": {
+                    "sdtype": "numerical"
+                },
+                "TEMP": {
+                    "sdtype": "numerical"
+                },
+                "PRES": {
+                    "sdtype": "numerical"
+                },
+                "log_Iws": {
+                    "sdtype": "categorical"
+                },
+                "log_Is": {
+                    "sdtype": "categorical"
+                },
+                "log_Ir": {
+                    "sdtype": "categorical"
+                },
+                "cbwd": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
